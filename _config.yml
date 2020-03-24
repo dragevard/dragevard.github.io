@@ -1,11 +1,11 @@
 # Site settings
-author: Derek phung
-title: 
+author: Derek P.
+title: Software Engineering Blog
 header-img: img/home-bg.png
 email: dragevards@gmail.com
-copyright_name: Derek phung
+copyright_name: Derek P.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Recaps
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dragevard
