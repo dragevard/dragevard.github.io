@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Lack of Chrome extensions"
-date:       2020-03-24 01:23:59 +0000
+date:       2020-03-23 21:24:00 -0400
 permalink:  lack_of_chrome_extensions
 ---
 
